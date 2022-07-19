@@ -1,0 +1,283 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #FFFDE2;
+}
+
+#app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 50%;
+}
+
+svg {
+  width: 100%;
+}
+
+.cls-1 {
+  fill: none;
+}
+
+.cls-2 {
+  isolation: isolate;
+}
+
+.cls-3 {
+  clip-path: url(#clip-path);
+}
+
+.cls-4 {
+  fill: #61929d;
+}
+
+.cls-5 {
+  fill: #70beb7;
+}
+
+.cls-6 {
+  clip-path: url(#clip-path-2);
+}
+
+.cls-7 {
+  fill: #ffc77b;
+}
+
+.cls-8 {
+  fill: #ffc577;
+}
+
+.cls-9 {
+  fill: #ffc273;
+}
+
+.cls-10 {
+  fill: #ffc06f;
+}
+
+.cls-11 {
+  fill: #ffbd6b;
+}
+
+.cls-12 {
+  fill: #ffbb67;
+}
+
+.cls-13 {
+  fill: #ffcf89;
+}
+
+.cls-14 {
+  clip-path: url(#clip-path-3);
+}
+
+.cls-15 {
+  fill: #ffca7f;
+}
+
+.cls-16 {
+  fill: #ffcc83;
+}
+
+.cls-17 {
+  fill: #ffcf87;
+}
+
+.cls-18 {
+  fill: #ffd18b;
+}
+
+.cls-19 {
+  fill: #ffd48f;
+}
+
+.cls-20 {
+  fill: #ffe6ab;
+}
+
+.cls-21 {
+  clip-path: url(#clip-path-4);
+}
+
+.cls-22 {
+  fill: #ffa761;
+}
+
+.cls-23 {
+  fill: #ffa35e;
+}
+
+.cls-24 {
+  fill: #ff9f5a;
+}
+
+.cls-25 {
+  fill: #ff9b57;
+}
+
+.cls-26 {
+  fill: #ff9754;
+}
+
+.cls-27 {
+  fill: #ff9351;
+}
+
+.cls-28 {
+  fill: #ffb46b;
+}
+
+.cls-29 {
+  clip-path: url(#clip-path-5);
+}
+
+.cls-30 {
+  fill: #ffab64;
+}
+
+.cls-31 {
+  fill: #ffaf67;
+}
+
+.cls-32 {
+  fill: #ffb36a;
+}
+
+.cls-33 {
+  fill: #ffb76d;
+}
+
+.cls-34 {
+  fill: #ffbb70;
+}
+
+.cls-35 {
+  fill: #ffd786;
+}
+
+.cls-36 {
+  clip-path: url(#clip-path-6);
+}
+
+.cls-37 {
+  fill: #e4856d;
+}
+
+.cls-38 {
+  fill: #e5866e;
+}
+
+.cls-39 {
+  fill: #e7876e;
+}
+
+.cls-40 {
+  fill: #e8886f;
+}
+
+.cls-41 {
+  fill: #e9886f;
+}
+
+.cls-42 {
+  fill: #eb8970;
+}
+
+.cls-43 {
+  fill: #ec8a70;
+}
+
+.cls-44 {
+  fill: #ed8b71;
+}
+
+.cls-45 {
+  fill: #e3856d;
+}
+
+.cls-46 {
+  fill: #e2846c;
+}
+
+.cls-47 {
+  fill: #e0836c;
+}
+
+.cls-48 {
+  fill: #f69074;
+}
+
+.cls-49 {
+  clip-path: url(#clip-path-7);
+}
+
+.cls-50 {
+  clip-path: url(#clip-path-8);
+}
+
+.cls-51 {
+  clip-path: url(#clip-path-9);
+}
+
+.cls-52 {
+  fill: #e8b36c;
+}
+
+.cls-53 {
+  fill: #e9b46f;
+}
+
+.cls-54 {
+  fill: #eab571;
+}
+
+.cls-55 {
+  fill: #ecb673;
+}
+
+.cls-56 {
+  fill: #edb775;
+}
+
+.cls-57 {
+  fill: #eeb877;
+}
+
+.cls-58 {
+  fill: #f0ba7b;
+}
+
+.cls-59 {
+  clip-path: url(#clip-path-10);
+}
+
+.cls-60 {
+  fill: #e7b26a;
+}
+
+.cls-61 {
+  fill: #e6b168;
+}
+
+.cls-62 {
+  fill: #e5b066;
+}
+
+.cls-63 {
+  fill: #eab46f;
+}
+
+.cls-64 {
+  fill: #f8c18a;
+}
+
+.cls-65 {
+  clip-path: url(#clip-path-11);
+}
+
+.cls-66 {
+  fill: #efb979;
+}
